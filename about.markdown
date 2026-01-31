@@ -12,3 +12,13 @@ I’m especially interested in language learning, educational resources, and usi
 This portfolio reflects how I learn: by building, revisiting, and improving real projects. I often take on projects simply to learn a tool or concept, and I treat the finished result as part of that learning process. I enjoy steady, hands-on problem-solving and revisiting projects over time as my understanding grows. 
 
 The projects here reflect my ongoing interest in language learning and building tools that support how people learn. I’m open to collaboration, feedback, and opportunities where curiosity, persistence, and thoughtful learning are valued.
+
+
+## My Skills
+
+### Technical Skills
+
+{% include technicalskills.md %}
+### Soft Skills
+
+{% include softskills.md %}

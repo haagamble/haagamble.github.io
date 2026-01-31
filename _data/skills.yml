@@ -1,0 +1,33 @@
+technical:
+ - title: HTML5 and CSS
+   level: Advanced
+ - title: JavaScript
+   level: Intermediate
+ - title: Responsive Web Design
+   level: Advanced
+ - title: Static Site Generators (Jekyll, Eleventy)
+   level: Intermediate
+ - title: Git & GitHub
+   level: Intermediate
+ - title: Vue.js
+   level: Beginner–Intermediate
+ - title: React
+   level: Intermediate
+ - title: AI-assisted development
+   level: Intermediate
+ - title: Python
+   level: Intermediate
+
+soft:
+  - title: Written communication
+    level: Advanced
+  - title: Self-directed learning
+    level: Advanced
+  - title: Problem solving
+    level: Intermediate
+  - title: Persistence & follow-through
+    level: Advanced
+  - title: Teaching & explaining concepts
+    level: Intermediate–Advanced
+
+
